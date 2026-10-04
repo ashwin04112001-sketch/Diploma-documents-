@@ -1,0 +1,17 @@
+HTML
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TER DIPLOMA</title>
+</head>
+
+<body>
+  <h1>TER DIPLOMA</h1>
+  <p>Welcome to TER DIPLOMA</p>
+
+  <h2>Documents</h2>
+  <p>यहाँ आपके documents और QR codes उपलब्ध होंगे।</p>
+</body>
+</html
